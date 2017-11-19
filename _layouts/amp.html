@@ -6,6 +6,9 @@ layout: amp
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+    {% if page.path contains '_posts' %} 
+    <link rel="amphtml" href="{{ page.id | prepend: '/amp' | prepend: site.baseurl | prepend: site.url }}">
+  {% endif %}
     <link rel="canonical" href="{{ page.canonical_url | prepend: site.baseurl | prepend: site.url }}" />
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <style amp-custom>
