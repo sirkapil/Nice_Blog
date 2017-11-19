@@ -17,10 +17,3 @@ skillstree: true # turn on or off the skills tree in about page
 # Build settings
 permalink:  /:title/
 markdown: kramdown
-
-# Plugins
-gems: 
-   - amp-jekyll
-
-# AMP Directory
-ampdir: amp
