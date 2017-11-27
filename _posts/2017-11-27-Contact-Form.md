@@ -19,7 +19,9 @@ Online source code is here: </p><ol>
 <br />
 <p>Can't find the form code ? No worries , here it is :</p>
 <section>
-<h2> Form Code </h2>
+
+## Form Code 
+
 </section>
 {% highlight html %}
   <form id="contactform" action="#" name="contactform" netlify>
@@ -53,7 +55,9 @@ Online source code is here: </p><ol>
    </form>
 {% endhighlight %}
 <section>
-<h2>This Form Uses :</h2>
+
+## This Form Uses :
+
 <ul>
 <li><a href="#githubrepo"> Github Repository</a> </li>
 <li><a href="#netlify"> Netlify </a></li>
@@ -64,12 +68,14 @@ Online source code is here: </p><ol>
 </ul>
 </section>
 <section>
-<h3><a name="githubrepo"> Github Repository </a></h3>
+
+### <a name="githubrepo"> Github Repository </a>
+
 <p>I'm using Github Repository for source code of this contact form.<br /><a href="https://github.com/sirkapil/contact">github.com/sirkapil/contact</a><br />
 This is link to Github Repository , you can clone it or fork it ! Any suitable changes through pull requests are welcome.</p>
 </section>
 <section>
-<h3> <a name="netlify">Netlify</a> </h3>
+<h3> <a name="netlify">Netlify</a> </h3
 <p> I'm using netlify to host my form , it deploy instanly any commit made to github repository. the data you submit in contact form is saved to my netlify account and they inform me about any form submission through mail along with a copy of your message.
 </p>
 <div class="epigraph">
