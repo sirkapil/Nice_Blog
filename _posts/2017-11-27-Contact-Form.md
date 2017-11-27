@@ -18,11 +18,11 @@ Online source code is here: </p><ol>
 </ol>
 <br />
 <p>Can't find the form code ? No worries , here it is :</p>
-<section>
+
 
 ## Form Code 
 
-</section>
+
 {% highlight html %}
   <form id="contactform" action="#" name="contactform" netlify>
 <section class="bg-red">
@@ -54,7 +54,7 @@ Online source code is here: </p><ol>
     </button>
    </form>
 {% endhighlight %}
-<section>
+
 
 ## This Form Uses :
 
@@ -66,16 +66,17 @@ Online source code is here: </p><ol>
 <li><a href="#tuftecss"> Tufte CSS </a></li>
 <li><a href="#customcss"> Custom CSS </a></li>
 </ul>
-</section>
-<section>
+
 
 ### <a name="githubrepo"> Github Repository </a>
 
 <p>I'm using Github Repository for source code of this contact form.<br /><a href="https://github.com/sirkapil/contact">github.com/sirkapil/contact</a><br />
 This is link to Github Repository , you can clone it or fork it ! Any suitable changes through pull requests are welcome.</p>
-</section>
-<section>
-<h3> <a name="netlify">Netlify</a> </h3
+
+
+### <a name="netlify">Netlify</a>
+
+
 <p> I'm using netlify to host my form , it deploy instanly any commit made to github repository. the data you submit in contact form is saved to my netlify account and they inform me about any form submission through mail along with a copy of your message.
 </p>
 <div class="epigraph">
@@ -86,18 +87,18 @@ This is link to Github Repository , you can clone it or fork it ! Any suitable c
 </footer>
 </blockquote>
 </div>
-</section> 
-<section>
-<h3><a name="mrhyde"> MrHyde </a></h3>
+
+### <a name="mrhyde"> MrHyde </a>
+
 <p>It is android app that I use to make suitable changes (commit) to my github repository. It lets me clone my github repository in internal storage of my phone and i can easily play with codes even without internet. I can push back changes to my github repository whenever connected to internet. and those changes are live instantly (few sec.)</p>
-</section>
-<section>
-<h3><a name="erlen"> Erlen's Codepen </a></h3>
+
+### <a name="erlen"> Erlen's Codepen </a>
+
 <p>Major of source code is taken from <a href="https://www.erlen.co.uk/minimal-contact-form-with-expanding-textareas/" target="_blank"> Erlen's Codepen.</a><br />
 I have made most of changes in  <i><b>contact.js , contact.css</b> </i> and a few changes in<i><b> index.html</b> </i>file. Mostly changes are to make it compatible with <b><i>tufte css.</i></b></p>
-</section>
-<section>
-<h3><a name="tuftecss"> Tufte CSS</a> </h3>
+
+### <a name="tuftecss"> Tufte CSS</a> 
+
 <p>Tufte CSS is inspired from Edward Tufte’s books and handouts. It was created by Dave Liepmann .<br />This is github repository of <b><i>tufte css.</i></b><br/><a href="//github.com/edwardtufte/tufte-css/" target="_blank">github.com/edwardtufte/tufte-css</a></p>
 <div class="epigraph">
 <blockquote>
@@ -107,16 +108,17 @@ I have made most of changes in  <i><b>contact.js , contact.css</b> </i> and a fe
 </footer>
 </blockquote>
 </div>
-</section>
-<section class="bg-red">
-<h3><a name="customcss"> Custom CSS</a> </h3>
+
+### <a name="customcss"> Custom CSS</a>
+
 <p>I've modified a part of <b><i>tufte css</i></b> to change its background color to light red . this section is using <b><i>custom css</i></b> via <code>section</code> tag and <code>class</code> as defined in starting of <b><i>custom css</i></b>.</p>
-</section>
+
 {% highlight html %}
 <section class="bg-red">
 {% endhighlight %}
-<section>
-<h4>Code</h4>
+
+#### Code
+
 <p>I'm giving you code of <b><i>custom css</i></b>. you can change the background color via hsla or hex format. use any color picker tool and modify the <b><i>custom css</i></b> for any colourful background.</p>
 {% highlight css %}
 .bg-red {
@@ -155,9 +157,8 @@ body {
   /* background-color: hsla(60, 100%, 97%, 1); /*/
 }
 {% endhighlight %}
- </section>
-<section>
-<h3> Final Words </h3>
+
+### Final Words 
+
 <p>Whatever i've used in this contact form is freely available on internet for personal use. However , it is my <i>dharma</i> to give credit to such amazing persons without whom it couldn't be possible.</p>
 <p>You can also use any of above feature and modify accordingly.</p>
-</section>
