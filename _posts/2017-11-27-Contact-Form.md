@@ -10,7 +10,7 @@ finished: true
 
 ## Introduction
 
-<p>Today , i'm going to tell you how i created this lovely <a href="https://contact.sirkapil.me" target="_blank">contact form</a>.
+<p>Today , i'm going to tell you about this lovely <a href="https://contact.sirkapil.me" target="_blank">contact form</a>. 
 
 <!-- more -->
 
