@@ -158,7 +158,7 @@ body {
 }
 {% endhighlight %}
 
-### Final Words 
+## Final Words 
 
 <p>Whatever i've used in this contact form is freely available on internet for personal use. However , it is my <i>dharma</i> to give credit to such amazing persons without whom it couldn't be possible.</p>
 <p>You can also use any of above feature and modify accordingly.</p>
