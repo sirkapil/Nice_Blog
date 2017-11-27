@@ -21,6 +21,7 @@ Online source code is here: </p><ol>
 <section>
 <h2> Form Code </h2>
 </section>
+{% highlight html %}
 <pre class="code">
 <code>
    &lt;form id="contactform" action="#" name="contactform" netlify>
@@ -54,6 +55,7 @@ Online source code is here: </p><ol>
    &lt;/form>
 </code>
 </pre>
+{% endhighlight %}
 <section>
 <h2>This Form Uses :</h2>
 <ul>
@@ -116,6 +118,7 @@ I have made most of changes in  <i><b>contact.js , contact.css</b> </i> and a fe
 <section>
 <h4>Code</h4>
 <p>I'm giving you code of <b><i>custom css</i></b>. you can change the background color via hsla or hex format. use any color picker tool and modify the <b><i>custom css</i></b> for any colourful background.</p>
+{% highlight css %}
 <pre class="code">
 <code>
 .bg-red {
@@ -155,6 +158,7 @@ body {
 }
 </code>
 </pre>
+{% endhighlight %}
  </section>
 <section>
 <h3> Final Words </h3>
