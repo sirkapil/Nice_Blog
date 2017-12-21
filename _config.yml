@@ -18,4 +18,3 @@ skillstree: true # turn on or off the skills tree in about page
 permalink:  /:title/
 markdown: kramdown
 
-include: [ _redirects, LICENSE ]
