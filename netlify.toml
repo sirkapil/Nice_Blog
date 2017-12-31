@@ -2,10 +2,10 @@
   from = "/"
   to = "https://blog.sirkapil.me/"
   status = 301
-  force = true
+  force = false
   
 [[redirects]]
   from = "/*"
   to = "https://blog.sirkapil.me/"
   status = 301
-  force = true
+  force = false
